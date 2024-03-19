@@ -1,0 +1,11 @@
+print("Hello, world!")  # Imprime
+"Hello, world!" na saída padrão
+prova: Hello, world!
+O código em Python é simples e direto.
+java: 
+prova: Hello, world!
+Em Java, o código começa com a declaração da classe HelloWorld, seguida pelo método main() que é o ponto de entrada do programa. O método System.out.println() é usado para imprimir o texto na saída padrão.
+JavaScript:
+prova: Hello, world!
+usado para imprimir mensagens no console do navegador ou do ambiente de execução. Neste caso, ele imprime "Hello, world!" no console.
+
