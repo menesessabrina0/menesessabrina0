@@ -1,0 +1,22 @@
+Python:
+Python é uma linguagem de programação de alto nível, interpretada e multiparadigma.
+É conhecida por sua sintaxe limpa e legível, o que a torna fácil de aprender e usar.
+código mínimo Python
+print("Hello, world!")
+
+Java:
+Java é uma linguagem de programação de alto nível, orientada a objetos e fortemente tipada.
+É conhecida por sua portabilidade, uma vez que o código Java pode ser executado em qualquer dispositivo que possua uma máquina virtual Java (JVM).
+Java código mínimo: 
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, world!");
+    }
+}
+
+JavaScript:
+JavaScript é uma linguagem de programação de alto nível, interpretada e principalmente usada para criar páginas web interativas.
+É uma linguagem de script do lado do cliente, o que significa que é executada no navegador do usuário.
+código mínimo JavaScript: 
+console.log("Hello, world!");
+
